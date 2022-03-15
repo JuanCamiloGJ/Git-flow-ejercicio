@@ -11,3 +11,10 @@ develop merge con feature/2 listo para enviar a pre-producion
 
 
 Hotfix rama *arreglando*
+
+
+el hotfix se arreglo, se hizo un merge con pre-produ, y de pre-produ otro merge a develop
+
+ahora un nuevo feature
+
+
