@@ -22,3 +22,6 @@ se creo rama:
 feature/3 commit uno
 
 se hizo merge de feature/3 a develop commit
+
+se hizo merge de develop a pre-product commit
+
